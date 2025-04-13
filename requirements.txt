@@ -1,0 +1,3 @@
+streamlit
+z3-solver
+matplotlib
